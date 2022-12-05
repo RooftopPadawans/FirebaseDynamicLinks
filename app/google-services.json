@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "437065027141",
+    "firebase_url": "https://levelup-test-9270d-default-rtdb.firebaseio.com",
+    "project_id": "levelup-test-9270d",
+    "storage_bucket": "levelup-test-9270d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437065027141:android:c8242c8fe38a17b998dd2c",
+        "android_client_info": {
+          "package_name": "com.flknLabs.personalsecuritypoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437065027141-8qm94iduj9kmg6v6djvsa1rtjl8aok4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5_197mbJ7KKonnRsO5C6se6EwsazVSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437065027141-8qm94iduj9kmg6v6djvsa1rtjl8aok4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437065027141:android:1ac86440e19b2c4a98dd2c",
+        "android_client_info": {
+          "package_name": "com.flknlabs.firebasedynamiclinksexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437065027141-8qm94iduj9kmg6v6djvsa1rtjl8aok4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5_197mbJ7KKonnRsO5C6se6EwsazVSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437065027141-8qm94iduj9kmg6v6djvsa1rtjl8aok4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437065027141:android:fc82f0a551d0e65998dd2c",
+        "android_client_info": {
+          "package_name": "com.flknlabs.firebaseexamples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437065027141-9mf3rf2c89fucrc5r55jbqbnbqon0sf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flknlabs.firebaseexamples",
+            "certificate_hash": "01357aa8610d3e9805d595a2842c67e84c11d581"
+          }
+        },
+        {
+          "client_id": "437065027141-8qm94iduj9kmg6v6djvsa1rtjl8aok4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5_197mbJ7KKonnRsO5C6se6EwsazVSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437065027141-8qm94iduj9kmg6v6djvsa1rtjl8aok4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
